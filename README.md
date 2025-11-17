@@ -2,3 +2,9 @@
 
 Training from LinuxTips: LLM Applications
 
+
+OPL = OpenAI, Pinecone & LangChain
+RAG = Retrieval Augmented Generation"
+
+![Path Player image](path-player.png)
+
