@@ -7,4 +7,5 @@ wikipedia==1.4.0
 pypdf==6.0.0
 llmx==0.0.21a0
 langchain-community==0.4.1
+pinecone==7.3.0
 
